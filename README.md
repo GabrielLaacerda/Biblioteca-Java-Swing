@@ -2,6 +2,12 @@
 
 Implementação de um sistema de biblioteca utilizando interface JavaSwing:
 
+## 🛠 Construído com
+- Java
+- Java/Swing
+- Hibernate
+  
+## Screenshots
 <div align="center">
 
 ![1](https://user-images.githubusercontent.com/79861755/212487968-d5b7bbbe-e18b-4f44-86ab-2c17071849f9.png)
